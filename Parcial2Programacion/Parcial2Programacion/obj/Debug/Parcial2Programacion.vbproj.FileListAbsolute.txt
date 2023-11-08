@@ -1,0 +1,12 @@
+C:\Users\50373\OneDrive\Escritorio\Parcial2Programacion\Parcial2Programacion\bin\Debug\Parcial2Programacion.exe.config
+C:\Users\50373\OneDrive\Escritorio\Parcial2Programacion\Parcial2Programacion\bin\Debug\Parcial2Programacion.exe
+C:\Users\50373\OneDrive\Escritorio\Parcial2Programacion\Parcial2Programacion\bin\Debug\Parcial2Programacion.pdb
+C:\Users\50373\OneDrive\Escritorio\Parcial2Programacion\Parcial2Programacion\bin\Debug\Parcial2Programacion.xml
+C:\Users\50373\OneDrive\Escritorio\Parcial2Programacion\Parcial2Programacion\obj\Debug\Parcial2Programacion.vbproj.AssemblyReference.cache
+C:\Users\50373\OneDrive\Escritorio\Parcial2Programacion\Parcial2Programacion\obj\Debug\Parcial2Programacion.Form1.resources
+C:\Users\50373\OneDrive\Escritorio\Parcial2Programacion\Parcial2Programacion\obj\Debug\Parcial2Programacion.Resources.resources
+C:\Users\50373\OneDrive\Escritorio\Parcial2Programacion\Parcial2Programacion\obj\Debug\Parcial2Programacion.vbproj.GenerateResource.cache
+C:\Users\50373\OneDrive\Escritorio\Parcial2Programacion\Parcial2Programacion\obj\Debug\Parcial2Programacion.vbproj.CoreCompileInputs.cache
+C:\Users\50373\OneDrive\Escritorio\Parcial2Programacion\Parcial2Programacion\obj\Debug\Parcial2Programacion.exe
+C:\Users\50373\OneDrive\Escritorio\Parcial2Programacion\Parcial2Programacion\obj\Debug\Parcial2Programacion.xml
+C:\Users\50373\OneDrive\Escritorio\Parcial2Programacion\Parcial2Programacion\obj\Debug\Parcial2Programacion.pdb
